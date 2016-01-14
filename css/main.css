@@ -15,10 +15,6 @@
 	transform: rotateY(180deg);
 }
 
-/*.portfolio-item:hover, .back.hover {
-
-	transform: rotateY(180deg);
-}*/
 /* hide back */
 .front, .back {
 
